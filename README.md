@@ -13,7 +13,7 @@ Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭
 目录
 -----
 
-| [概述](#概述) | [框架](#框架) | [Demo演示](#Demo演示) | [压力测试](#压力测试) | [运行](#运行) | [个性化运行](#个性化运行) | 
+| [概述](#概述) | [框架](#框架) | [Demo演示](#Demo演示) | [压力测试](#压力测试) | [运行](#运行) | [个性化运行](#个性化运行) ||
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 
@@ -22,14 +22,14 @@ Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭
 
 > * C/C++
 > * B/S模型
-> * [线程同步机制包装类](https://github.com/qinguoyi/TinyWebServer/tree/master/lock)
-> * [http连接请求处理类](https://github.com/qinguoyi/TinyWebServer/tree/master/http)
-> * [半同步/半反应堆线程池](https://github.com/qinguoyi/TinyWebServer/tree/master/threadpool)
-> * [定时器处理非活动连接](https://github.com/qinguoyi/TinyWebServer/tree/master/timer)
-> * [同步/异步日志系统 ](https://github.com/qinguoyi/TinyWebServer/tree/master/log)  
-> * [数据库连接池](https://github.com/qinguoyi/TinyWebServer/tree/master/CGImysql) 
-> * [同步线程注册和登录校验](https://github.com/qinguoyi/TinyWebServer/tree/master/CGImysql) 
-> * [简易服务器压力测试](https://github.com/qinguoyi/TinyWebServer/tree/master/test_presure)
+> * [线程同步机制包装类]
+> * [http连接请求处理类]
+> * [半同步/半反应堆线程池]
+> * [定时器处理非活动连接]
+> * [同步/异步日志系统 ]
+> * [数据库连接池]
+> * [同步线程注册和登录校验]
+> * [简易服务器压力测试]
 
 
 框架
